@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ana.chaves3\\Documents\\GitHub\\Tarefa-2D---GitHub\\Jogo 2D - Tarefa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01F024CB-BF07-B946-C215-0245A5E1CCF5}|Assembly-CSharp.csproj|c:\\users\\ana.chaves3\\documents\\github\\tarefa-2d---github\\jogo 2d - tarefa\\assets\\movimenta\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F024CB-BF07-B946-C215-0245A5E1CCF5}|Assembly-CSharp.csproj|solutionrelative:assets\\movimenta\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01F024CB-BF07-B946-C215-0245A5E1CCF5}|Assembly-CSharp.csproj|c:\\users\\ana.chaves3\\documents\\github\\tarefa-2d---github\\jogo 2d - tarefa\\assets\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F024CB-BF07-B946-C215-0245A5E1CCF5}|Assembly-CSharp.csproj|solutionrelative:assets\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "movimenta\u00E7\u00E3o.cs",
-              "DocumentMoniker": "C:\\Users\\ana.chaves3\\Documents\\GitHub\\Tarefa-2D---GitHub\\Jogo 2D - Tarefa\\Assets\\movimenta\u00E7\u00E3o.cs",
-              "RelativeDocumentMoniker": "Assets\\movimenta\u00E7\u00E3o.cs",
-              "ToolTip": "C:\\Users\\ana.chaves3\\Documents\\GitHub\\Tarefa-2D---GitHub\\Jogo 2D - Tarefa\\Assets\\movimenta\u00E7\u00E3o.cs",
-              "RelativeToolTip": "Assets\\movimenta\u00E7\u00E3o.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Title": "personagem.cs",
+              "DocumentMoniker": "C:\\Users\\ana.chaves3\\Documents\\GitHub\\Tarefa-2D---GitHub\\Jogo 2D - Tarefa\\Assets\\personagem.cs",
+              "RelativeDocumentMoniker": "Assets\\personagem.cs",
+              "ToolTip": "C:\\Users\\ana.chaves3\\Documents\\GitHub\\Tarefa-2D---GitHub\\Jogo 2D - Tarefa\\Assets\\personagem.cs",
+              "RelativeToolTip": "Assets\\personagem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:57:10.505Z",
+              "WhenOpened": "2025-03-06T12:30:06.123Z",
               "EditorCaption": ""
             },
             {
